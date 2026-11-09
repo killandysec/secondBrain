@@ -1,3 +1,7 @@
 .obsidian/
 .DS_Store
 Thumbs.db
+
+# Keep personal notes out of the public working tree.
+/Life/
+/archive/Roommates.md
